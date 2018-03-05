@@ -1,0 +1,12 @@
+Welcome to our experiment!                          
+Today, you will be listening to two sound bites,    
+and rating how similar they are to one another!     
+You will see two PLAY buttons on screen.            
+Press 'Z' or 'M' to begin the sound bite.           
+After listening to one, the button will turn green. 
+Play them as many times as you like!                
+Once you have listened to both at least once,       
+rate them by pressing a number between "1" and "7". 
+"7" indicates they are identical.                   
+"1" indicates they are not similar at all.          
+Any questions? If not, press "Right Arrow" to begin!
